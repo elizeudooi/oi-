@@ -1,7 +1,4 @@
-# SempreElétron-
-bem vindo 
-## tudo que você precisa em um só lugar
-<p align="center">SempreElétron</p>
+#EXTM3U
 
-</p>=<LABEL>&message=<MESSAGE>&color=<4DA6FF>&style=<4DA6FF>&logo=<https://photos.app.goo.gl/dtWGuqMUjvgRtz3N6>
-</p>
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/K1zoxQ5.png"group-title="TV Brasil",google
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w35012941.m3u8
